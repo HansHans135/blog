@@ -1,0 +1,44 @@
+baseURL: https://blog.hans0805.me/
+languageCode: zh-tw
+title: Hans's Blog
+theme: ["PaperMod"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Search
+      url: search/
+      weight: 10
+    - name: Tags
+      url: tags/
+      weight: 10
+
+params:
+  comments: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  defaultTheme: auto
+
+  homeInfoParams:
+    Title: 🇹🇼   Hello! I'm Hans
+    Content: A student passionate about technology and software development.
+    
+    
+  socialIcons: # optional
+    - name: "Github"
+      url: "https://github.com/hanshans135"
+    - name: "Instagram"
+      url: "https://www.instagram.com/08.hans_/"
+    - name: "Discord"
+      url: "https://discord.gg/JayWx9RygN"
+    - name: "WebSite"
+      url: "https://hans0805.me/"
