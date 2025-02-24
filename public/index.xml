@@ -6,12 +6,53 @@
     <description>Recent content on Hans&#39;s Blog</description>
     <generator>Hugo -- 0.144.2</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 24 Feb 2025 23:16:28 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 00:22:57 +0800</lastBuildDate>
     <atom:link href="https://blog.hans0805.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我對學生會的想法與看法</title>
+      <link>https://blog.hans0805.me/posts/student-union/</link>
+      <pubDate>Wed, 11 Sep 2024 00:22:57 +0800</pubDate>
+      <guid>https://blog.hans0805.me/posts/student-union/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;這篇可能是抱怨文，也有可能是可以做為參考的內容，就看你怎麼想了。裡面只有我個人待在我高中學生會的想法和猜測。&lt;/p&gt;
+&lt;h2 id=&#34;學生會參與度低落的原因&#34;&gt;學生會參與度低落的原因&lt;/h2&gt;
+&lt;h3 id=&#34;1-長姐制的問題&#34;&gt;1. 「長姐制」的問題&lt;/h3&gt;
+&lt;p&gt;我曾聽過這樣的說法：「以後你們接任幹部時，『長姐制』可以幫助你們管理學弟妹。」然而，我認為這樣的制度反而會破壞組織內部的關係。學生會本質上是一個自治組織，而非需要透過嚴格紀律來達成特定技術成果的社團。&lt;/p&gt;
+&lt;p&gt;以下是一些具體問題：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;過度形式化的禮節要求&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「對學長姐要有禮貌，遇到學生會的學長姐要打招呼」&lt;/li&gt;
+&lt;li&gt;這種強制性的禮貌要求造成不必要的壓力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;無效的溝通規範&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;「在群組裡看到學長姐的訊息，每個人都必須回覆『知道了，謝謝學長姐』」&lt;/li&gt;
+&lt;li&gt;過度形式化的回覆要求降低了溝通效率&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-低頭閉眼文化的缺失&#34;&gt;2. 「低頭閉眼」文化的缺失&lt;/h3&gt;
+&lt;p&gt;這種做法試圖通過要求學弟妹低頭閉眼、由學長姐進行訓話來建立權威，但實際上常常淪為：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;缺乏建設性的批評&lt;/li&gt;
+&lt;li&gt;無具體改進建議&lt;/li&gt;
+&lt;li&gt;浪費時間且無助於成長&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;參考資料&#34;&gt;參考資料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ntu.im/ruby/a-peek-into-high-school-club/index.html#preface&#34;&gt;當學長姐制成為管理工具&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.wikipedia.org/zh-tw/%E5%AD%B8%E7%94%9F%E6%9C%83&#34;&gt;學生會 – 維基百科&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=ORJRrfgaEyA&#34;&gt;非賣品#1 – 學長學弟制 feat.卡提斯Curtis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>https://blog.hans0805.me/posts/hello-world/</link>
-      <pubDate>Mon, 24 Feb 2025 23:16:28 +0800</pubDate>
+      <pubDate>Tue, 05 Aug 2008 23:00:00 +0800</pubDate>
       <guid>https://blog.hans0805.me/posts/hello-world/</guid>
       <description>&lt;p&gt;This is the first post of this blog
 &lt;img loading=&#34;lazy&#34; src=&#34;https://lanyard.cnrad.dev/api/851062442330816522&#34;&gt;&lt;/p&gt;</description>
